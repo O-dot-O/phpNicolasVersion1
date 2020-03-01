@@ -1,0 +1,56 @@
+[
+    {
+        "number": 0,
+        "title": "Bienvenue sur Flashcards JDA",
+        "question": "C'est un simple moyen d'apprendre",
+        "answer": "OUI",
+        "isNote": true,
+        "Note": "C'est possible !"
+    },
+    {
+        "number": 1,
+        "title": "EMC",
+        "question": "En quelle année le traité de Maastricht a t'il été signé ?",
+        "answer": "1992",
+        "isNote": true,
+        "Note": "Attention à l'orthographe de Maastricht !"
+    },
+    {
+        "number" : 2, 
+        "title" : "Physique",
+        "question": "Combien représente 3 cm cube en litre ?",
+        "answer" : "0,003",
+        "isNote" : true,
+        "Note" : "diviser x par 1000 pour trouver la valeur en litre !"
+    },
+    {
+        "number" : 3,
+        "title" : "Maths",
+        "question" : "Comment savoir si un nombre est divisible par 2 ?",
+        "answer" : "Il vous suffit de regarder si le nombre est pair !",
+        "isNote" : false,
+        "Note" : ""
+    },
+    {
+        "number" : 4,
+        "title" : "Histoire",
+        "question" : "Quand la Seconde Guerre mondiale a-t-elle débutée ?",
+        "answer" : "Le premier septembre 1939 !",
+        "isNote" : true,
+        "Note" : "Attention : Seconde Guerre mondial (avec une majuscule à Seconde et à Guerre !)"
+    },
+    {
+        "number" : 5,
+        "title" : "Maths",
+        "question" : "Pour trouver tous les diviseurs d'un nombre entier N, on teste la divisibilité de N par tous les nombres entiers inférieurs ou égaux à la racine carré de N. Vrai ou Faux ?",
+        "answer" : "Vrai ! Exemple : pour trouver les diviseurs de 18, on calcule la racine carré de 18 et l'on trouve environ 4.2.Il faut donc tester la divisibilité par 1,2,3,4.L'on finis donc par trouver 18=1 *18=2 * 9=3 * 6.Donc 18 est divisible par 1,2,3,6,9,18.",
+        "isNote" : false,
+        "Note" : ""
+    },
+    {
+        "number" : 6,
+        "title" : "Histoire",
+        "question" : "Quels est le principe fondamental du nazisme ?",
+        "answer" : "Les juifs sont considérés comme étant des parasite au bon dévelopement de l'Allemagne."
+    }
+]

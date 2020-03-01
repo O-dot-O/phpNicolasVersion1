@@ -1,0 +1,21 @@
+::root {
+--bleu : #3954ca;
+--noire : #343344;
+--noireFoncé : #222222;
+--red : #ff0000;
+}
+.asside {
+    background-color: var(--noireFoncé)!important;
+}
+.main {
+    background-color: var(--noire)!important;
+}
+body {
+    background-color: var(--noireFoncé)!important;
+}
+.phone-more {
+    background-color: var(--noireFoncé)!important;
+}
+.phone-more li {
+    background-color: var(--noireFoncé)!important;
+}
